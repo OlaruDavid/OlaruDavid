@@ -48,8 +48,3 @@ I focus on writing clean code, learning new concepts, and constantly improving m
 - 🌐 GitHub: https://github.com/OlaruDavid
 
 ---
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_TAU&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_TAU&layout=compact)
