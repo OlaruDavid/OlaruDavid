@@ -18,7 +18,6 @@ I focus on writing clean code, learning new concepts, and constantly improving m
 - **Languages:** JavaScript, C#, C++
 - **Frontend:** React, HTML, CSS
 - **Backend:** C#, .NET
-- **Other:** Git, GitHub
 
 ---
 
