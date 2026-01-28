@@ -43,7 +43,7 @@ I focus on writing clean code, learning new concepts, and constantly improving m
 
 ## 📬 Let's Connect
 - 💼 LinkedIn: (https://www.linkedin.com/in/david-olaru-805535330/)
-- 📧 Email: olarudavidlil@gmail.com
-- 🌐 GitHub: https://github.com/OlaruDavid
+- 📧 Email: olarudavidlil@gmail.com / olarudavid@yahoo.com
+
 
 ---
